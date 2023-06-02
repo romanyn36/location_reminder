@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="/images/demo.gif" alt="Demo">
-</p>
+
+
 
 <h1 align="center">Location Reminder</h1>
 
@@ -95,7 +94,6 @@
     <li><a href="#checkered_flag-Starting-and-installation">Starting</a></li>
      <li><a href="#testing">Testing</a></li>
       <li><a href="#built-with">Built With</a></li>
-       <li><a href="#white_check_mark-Dependencies">Dependencies</a></li>
     <li><a href="#email-contact">Contact</a></li>
     <li><a href="#memo-license">License</a></li>
 
@@ -103,6 +101,17 @@
 
 <br>
 
+<p align="center" id="top"> 
+<img src="/images/login.jpg" alt="Blood_bank Project" width="200" height="300" />
+<img src="/images/list.jpg" alt="Blood_bank Project" width="200" height="300" /> 
+<img src="/images/info.jpg" alt="Blood_bank Project" width="200" height="300" />
+
+
+<img src="/images/map.jpg" alt="Blood_bank Project" width="200" height="300" />
+
+</p>
+
+####  try the Location Reminders App :[APK](location_reminder.apk)
 ## :dart: About ##
 
 A Todo list app with location reminders that remind the user to do something when he reaches a specific location. The app will require the user to create an account and login to set and access reminders.
@@ -168,96 +177,6 @@ app contain testing :
 Right click on the `test` or `androidTest` packages and select Run Tests
 ```
 
-## :white_check_mark: Dependencies ##
-
-```
-dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    // App dependencies
-    implementation "androidx.appcompat:appcompat:$appCompatVersion"
-    implementation "androidx.legacy:legacy-support-v4:$androidXLegacySupport"
-    implementation "androidx.annotation:annotation:$androidXAnnotations"
-
-    implementation "androidx.cardview:cardview:$cardVersion"
-    implementation "com.google.android.material:material:$materialVersion"
-    implementation "androidx.recyclerview:recyclerview:$recyclerViewVersion"
-    implementation "androidx.constraintlayout:constraintlayout:$constraintVersion"
-
-    implementation 'com.google.code.gson:gson:2.8.5'
-
-    // Architecture Components
-    //Navigation dependencies
-    implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-rc1'
-    kapt "androidx.lifecycle:lifecycle-compiler:$archLifecycleVersion"
-    implementation "androidx.lifecycle:lifecycle-extensions:$archLifecycleVersion"
-    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$archLifecycleVersion"
-    implementation "androidx.lifecycle:lifecycle-extensions:$archLifecycleVersion"
-    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$archLifecycleVersion"
-    implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
-    implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
-    implementation "androidx.test.espresso:espresso-idling-resource:$espressoVersion"
-
-    //Room dependencies
-    implementation "androidx.room:room-ktx:$roomVersion"
-    implementation "androidx.room:room-runtime:$roomVersion"
-    kapt "androidx.room:room-compiler:$roomVersion"
-
-    //Coroutines Dependencies
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutinesVersion"
-
-    //Koin
-    implementation "org.koin:koin-android:$koinVersion"
-    implementation "org.koin:koin-androidx-viewmodel:$koinVersion"
-
-
-    // Dependencies for local unit tests
-    testImplementation "junit:junit:$junitVersion"
-    testImplementation "org.hamcrest:hamcrest-all:$hamcrestVersion"
-    testImplementation "androidx.arch.core:core-testing:$archTestingVersion"
-    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutinesVersion"
-    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutinesVersion"
-    testImplementation "org.robolectric:robolectric:$robolectricVersion"
-    testImplementation "com.google.truth:truth:$truthVersion"
-    testImplementation "org.mockito:mockito-core:$mockitoVersion"
-
-    // AndroidX Test - JVM testing
-    testImplementation "androidx.test:core-ktx:$androidXTestCoreVersion"
-    testImplementation "androidx.test.ext:junit-ktx:$androidXTestExtKotlinRunnerVersion"
-    testImplementation "androidx.test:rules:$androidXTestRulesVersion"
-
-    // AndroidX Test - Instrumented testing
-    androidTestImplementation "androidx.test:core-ktx:$androidXTestCoreVersion"
-    androidTestImplementation "androidx.test.ext:junit-ktx:$androidXTestExtKotlinRunnerVersion"
-    androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutinesVersion"
-    androidTestImplementation "androidx.test:rules:$androidXTestRulesVersion"
-    androidTestImplementation "androidx.room:room-testing:$roomVersion"
-    androidTestImplementation "androidx.arch.core:core-testing:$archTestingVersion"
-    androidTestImplementation "org.robolectric:annotations:$robolectricVersion"
-    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
-    androidTestImplementation "androidx.test.espresso:espresso-contrib:$espressoVersion"
-    androidTestImplementation "androidx.test.espresso:espresso-intents:$espressoVersion"
-    androidTestImplementation "androidx.test.espresso.idling:idling-concurrent:$espressoVersion"
-    androidTestImplementation "junit:junit:$junitVersion"
-    // Once https://issuetracker.google.com/127986458 is fixed this can be testImplementation
-    implementation "androidx.fragment:fragment-testing:$fragmentVersion"
-    implementation "androidx.test:core:$androidXTestCoreVersion"
-    implementation "androidx.fragment:fragment:$fragmentVersion"
-    androidTestImplementation "org.mockito:mockito-core:$mockitoVersion"
-    androidTestImplementation "com.linkedin.dexmaker:dexmaker-mockito:$dexMakerVersion"
-    androidTestImplementation('org.koin:koin-test:2.0.1') { exclude group: 'org.mockito' }
-
-
-
-    //Maps & Geofencing
-    implementation "com.google.android.gms:play-services-location:$playServicesVersion"
-    implementation "com.google.android.gms:play-services-maps:$playServicesVersion"
-
-    implementation 'com.android.support:multidex:1.0.3'
-    // firebase
-    implementation 'com.firebaseui:firebase-ui-auth:5.0.0'
-    }
-```
 
 ## Built With
 
