@@ -93,9 +93,9 @@
     <li><a href="#sparkles-features">Features</a></li>
     <li><a href="#rocket-technologies">Technologies</a></li>
     <li><a href="#checkered_flag-Starting-and-installation">Starting</a></li>
-     <li><a href="#checkered_flag-testing">Testing</a></li>
-      <li><a href="#checkered_flag-built-with">Built With</a></li>
-       <li><a href="#white_check_mark-requirements">Dependencies</a></li>
+     <li><a href="#testing">Testing</a></li>
+      <li><a href="#built-with">Built With</a></li>
+       <li><a href="#white_check_mark-Dependencies">Dependencies</a></li>
     <li><a href="#email-contact">Contact</a></li>
     <li><a href="#memo-license">License</a></li>
 
