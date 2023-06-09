@@ -5,36 +5,20 @@
 
 <p align="center">
 
-<!-- <a href="https://github.com/romanyn36/location_reminder/graphs/contributors">
 
-  <img src="https://img.shields.io/github/contributors/romanyn36/location_reminder.svg?style=for-the-badge" alt="Contributors" />
-  
-</a> -->
-
-
-
-
-
-<!-- <a href="https://github.com/romanyn36/location_reminder/issues">
-
-  <img src="https://img.shields.io/github/issues/romanyn36/location_reminder.svg?style=for-the-badge" alt="issues" />
-</a> -->
    <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/location_reminder?color=56BEB8">
-<!-- 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/location_reminder?color=56BEB8">
-   -->
 
-  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/location_reminder?color=56BEB8"> -->
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/location_reminder?color=56BEB8">
+  
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/location_reminder?color=56BEB8">
 
   <!-- <img alt="License" src="https://img.shields.io/github/license/romanyn36/location_reminder?color=56BEB8"> -->
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/location_reminder?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/location_reminder?color=56BEB8" />
 
-<!-- <a href="https://github.com/romanyn36/location_reminder/network/members"> -->
 
-<!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/location_reminder.svg?color=56BEB8" /> -->
-
-  <!-- <img src="https://img.shields.io/github/forks/romanyn36/location_reminder.svg?style=for-the-badge" alt="forks" /> -->
+<img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/location_reminder.svg?color=56BEB8" />
 
 
   
@@ -44,11 +28,7 @@
   
   <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/location_reminder?color=56BEB" />
 
-  <!-- <img src="https://img.shields.io/github/stars/romanyn36/location_reminder.svg?style=for-the-badge" alt="stars" /> -->
-
 </a>
-
-
 
 
 
@@ -188,52 +168,30 @@ Right click on the `test` or `androidTest` packages and select Run Tests
 
 ### :email: Contact ##
 <p align="center">
- <a href="https://www.facebook.com/romanyn3/" target="_blank">
-  <img src="https://img.shields.io/badge/-Romani Nasser-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+
+<a href="https://www.facebook.com/romanyn3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
-<!-- <a href="https://twitter.com/romanyn36" target="_blank">
-  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /> -->
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-
-<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
-  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-</a> -->
-
-
-<!-- <a href="mailto:youremail@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
-</a> -->
-
-<!-- <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
-  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> -->
 
 <a href="https://github.com/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+
 <a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
-</p>
 
-<!-- social links -->
-<p align="center">
-<a href="https://romanyn36.github.io" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
 
 <a href="https://www.linkedin.com/in/romanyn36/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img src="https://img.shields.io/badge/Connect-Romani-blue.svg?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<a href="https://dev.to/romanyn36" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
 
-<a href="https://twitter.com/romanyn36" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
 
 </p>
 
